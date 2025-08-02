@@ -1,0 +1,62 @@
+[
+  {
+    "id": "AD2309182398123",
+    "name": "Alice",
+    "password": "alice123",
+    "email": "alice@example.com"
+  },
+  {
+    "id": "AD9348237498123",
+    "name": "Bob",
+    "password": "bob_secure",
+    "email": "bob@example.com"
+  },
+  {
+    "id": "AD1923847192834",
+    "name": "Charlie",
+    "password": "charlie_pw",
+    "email": "charlie@domain.com"
+  },
+  {
+    "id": "AD8237498129348",
+    "name": "Diana",
+    "password": "diana456",
+    "email": "diana@mail.com"
+  },
+  {
+    "id": "AD9182736450123",
+    "name": "Ethan",
+    "password": "ethan!pass",
+    "email": "ethan@example.org"
+  },
+  {
+    "id": "AD2837461203984",
+    "name": "Fiona",
+    "password": "f1onaPass",
+    "email": "fiona@site.net"
+  },
+  {
+    "id": "AD7123984712093",
+    "name": "George",
+    "password": "g_pass123",
+    "email": "george@web.com"
+  },
+  {
+    "id": "AD1827364510293",
+    "name": "Hannah",
+    "password": "han456",
+    "email": "hannah@example.com"
+  },
+  {
+    "id": "AD7891234560987",
+    "name": "Ian",
+    "password": "ian_ian",
+    "email": "ian@domain.org"
+  },
+  {
+    "id": "AD5647382918374",
+    "name": "Julia",
+    "password": "jul!aPass",
+    "email": "julia@mail.org"
+  }
+]

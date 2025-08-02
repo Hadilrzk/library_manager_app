@@ -1,0 +1,124 @@
+[
+  {
+    "id": "ST3902847123004",
+    "name": "Alice",
+    "password": "pass123",
+    "books": {
+      
+    }
+  },
+  {
+    "id": "ST4823912845563",
+    "name": "Bob",
+    "password": "helloBob",
+    "books": ["BK165656565", "BK165656565"]
+  },
+  {
+    "id": "ST1823749102375",
+    "name": "Charlie",
+    "password": "charlie321",
+    "books": {}
+  },
+  {
+    "id": "ST5728347291033",
+    "name": "Diana",
+    "password": "d!ana2024",
+    "books": {}
+  },
+  {
+    "id": "ST2384923478210",
+    "name": "Ethan",
+    "password": "ethan_456",
+    "books": {}
+  },
+  {
+    "id": "ST1283471209841",
+    "name": "Fiona",
+    "password": "F!ona!Pass",
+    "books": {}
+  },
+  {
+    "id": "ST9283747102843",
+    "name": "George",
+    "password": "Geo_789",
+    "books": {}
+  },
+  {
+    "id": "ST1923847912837",
+    "name": "Hannah",
+    "password": "hannahLove",
+    "books": {}
+  },
+  {
+    "id": "ST2893471238902",
+    "name": "Ian",
+    "password": "ianian",
+    "books": {}
+  },
+  {
+    "id": "ST9283741928347",
+    "name": "Julia",
+    "password": "jul!a456",
+    "books": {}
+  },
+  {
+    "id": "ST3847923847192",
+    "name": "Kevin",
+    "password": "kev2024",
+    "books": {}
+  },
+  {
+    "id": "ST1293847192038",
+    "name": "Laura",
+    "password": "L@ur@123",
+    "books": {}
+  },
+  {
+    "id": "ST2938471239481",
+    "name": "Mike",
+    "password": "mikepass",
+    "books": {}
+  },
+  {
+    "id": "ST9872347891234",
+    "name": "Nina",
+    "password": "nina_789",
+    "books": {}
+  },
+  {
+    "id": "ST2348971234789",
+    "name": "Oscar",
+    "password": "oscar321",
+    "books": {}
+  },
+  {
+    "id": "ST2348791234871",
+    "name": "Paula",
+    "password": "paulaPa$$",
+    "books": {}
+  },
+  {
+    "id": "ST8723417891234",
+    "name": "Quinn",
+    "password": "qU1nnPass",
+    "books": {}
+  },
+  {
+    "id": "ST7123489712834",
+    "name": "Rachel",
+    "password": "rach456",
+    "books": {}
+  },
+  {
+    "id": "ST1293847123948",
+    "name": "Steve",
+    "password": "steve123",
+    "books": {}
+  },
+  {
+    "id": "ST9081234798234",
+    "name": "Tina",
+    "password": "tin@tin",
+    "books": {}
+  }
+]
