@@ -3,122 +3,124 @@
     "id": "ST3902847123004",
     "name": "Alice",
     "password": "pass123",
-    "books": {
-      
-    }
+    "books": []
   },
   {
     "id": "ST4823912845563",
     "name": "Bob",
     "password": "helloBob",
-    "books": ["BK165656565", "BK165656565"]
+    "books": []
   },
   {
     "id": "ST1823749102375",
     "name": "Charlie",
     "password": "charlie321",
-    "books": {}
+    "books": []
   },
   {
     "id": "ST5728347291033",
     "name": "Diana",
     "password": "d!ana2024",
-    "books": {}
+    "books": []
   },
   {
     "id": "ST2384923478210",
     "name": "Ethan",
     "password": "ethan_456",
-    "books": {}
+    "books": []
   },
   {
     "id": "ST1283471209841",
     "name": "Fiona",
     "password": "F!ona!Pass",
-    "books": {}
+    "books": []
   },
   {
     "id": "ST9283747102843",
     "name": "George",
     "password": "Geo_789",
-    "books": {}
+    "books": [
+      "BK20874708590",
+      "BK28322530495",
+      "BK1015244520"
+    ]
   },
   {
     "id": "ST1923847912837",
     "name": "Hannah",
     "password": "hannahLove",
-    "books": {}
+    "books": []
   },
   {
     "id": "ST2893471238902",
     "name": "Ian",
     "password": "ianian",
-    "books": {}
+    "books": []
   },
   {
     "id": "ST9283741928347",
     "name": "Julia",
     "password": "jul!a456",
-    "books": {}
+    "books": []
   },
   {
     "id": "ST3847923847192",
     "name": "Kevin",
     "password": "kev2024",
-    "books": {}
+    "books": []
   },
   {
     "id": "ST1293847192038",
     "name": "Laura",
     "password": "L@ur@123",
-    "books": {}
+    "books": []
   },
   {
     "id": "ST2938471239481",
     "name": "Mike",
     "password": "mikepass",
-    "books": {}
+    "books": []
   },
   {
     "id": "ST9872347891234",
     "name": "Nina",
     "password": "nina_789",
-    "books": {}
+    "books": []
   },
   {
     "id": "ST2348971234789",
     "name": "Oscar",
     "password": "oscar321",
-    "books": {}
+    "books": []
   },
   {
     "id": "ST2348791234871",
     "name": "Paula",
     "password": "paulaPa$$",
-    "books": {}
+    "books": []
   },
   {
     "id": "ST8723417891234",
     "name": "Quinn",
     "password": "qU1nnPass",
-    "books": {}
+    "books": []
   },
   {
     "id": "ST7123489712834",
     "name": "Rachel",
     "password": "rach456",
-    "books": {}
+    "books": []
   },
   {
     "id": "ST1293847123948",
     "name": "Steve",
     "password": "steve123",
-    "books": {}
+    "books": []
   },
   {
     "id": "ST9081234798234",
     "name": "Tina",
     "password": "tin@tin",
-    "books": {}
+    "books": []
   }
 ]

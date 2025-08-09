@@ -356,7 +356,7 @@
     "name": "Book Title 112",
     "desc": "This is the description for book 519.",
     "booknbr": 10,
-    "rembks": 10,
+    "rembks": 9,
     "writers": []
   },
   {
@@ -372,15 +372,7 @@
     "name": "Book Title 431",
     "desc": "This is the description for book 737.",
     "booknbr": 3,
-    "rembks": 3,
-    "writers": []
-  },
-  {
-    "id": "BK45527416892",
-    "name": "Book Title 961",
-    "desc": "This is the description for book 687.",
-    "booknbr": 10,
-    "rembks": 10,
+    "rembks": 2,
     "writers": []
   },
   {
@@ -388,15 +380,17 @@
     "name": "Book Title 316",
     "desc": "This is the description for book 594.",
     "booknbr": 10,
-    "rembks": 10,
+    "rembks": 9,
     "writers": []
   },
   {
-    "id": "BK27667466774",
-    "name": "Book Title 804",
-    "desc": "This is the description for book 228.",
-    "booknbr": 7,
-    "rembks": 7,
-    "writers": []
+    "id": "BK278726706",
+    "name": "book hadilssss",
+    "desc": "has not dec",
+    "booknbr": 8,
+    "rembks": 8,
+    "writers": [
+      "AU164989489"
+    ]
   }
 ]
